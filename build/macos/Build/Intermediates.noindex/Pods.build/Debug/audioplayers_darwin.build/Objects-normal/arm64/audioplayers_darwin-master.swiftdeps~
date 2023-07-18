@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "147282291f3e2ebb0d1433358565d62e420457d39caab05f5af974103cd13e8c"
-build_start_time: [1687753423, 644400000]
-build_end_time: [1687753423, 686680000]
-inputs:
-  "/Users/ewan/.pub-cache/hosted/pub.dev/audioplayers_darwin-4.1.0/macos/Classes/AudioContext.swift": !private [1687749359, 961798503]
-  "/Users/ewan/.pub-cache/hosted/pub.dev/audioplayers_darwin-4.1.0/macos/Classes/SwiftAudioplayersDarwinPlugin.swift": !private [1687749359, 962166462]
-  "/Users/ewan/.pub-cache/hosted/pub.dev/audioplayers_darwin-4.1.0/macos/Classes/Utils.swift": !private [1687749359, 962042753]
-  "/Users/ewan/.pub-cache/hosted/pub.dev/audioplayers_darwin-4.1.0/macos/Classes/WrappedMediaPlayer.swift": !private [1687749359, 961688378]

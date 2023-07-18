@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "bc6836b302f80f9ebe15d1f6083d797844c166cd8ef0a9d0ab37f4645130cfd2"
-build_start_time: [1689322291, 498848000]
-build_end_time: [1689322293, 514076000]
-inputs:
-  "/Users/ewan/Desktop/School/AssessmentApp/src/assessment_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1689322283, 453003408]
-  "/Users/ewan/Desktop/School/AssessmentApp/src/assessment_app/macos/Runner/AppDelegate.swift": [1664987375, 0]
-  "/Users/ewan/Desktop/School/AssessmentApp/src/assessment_app/macos/Runner/MainFlutterWindow.swift": [1664987375, 0]
